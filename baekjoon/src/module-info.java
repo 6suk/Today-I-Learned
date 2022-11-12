@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author qwerr
+ *
+ */
+module Baekjoon {
+}
