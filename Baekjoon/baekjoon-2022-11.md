@@ -1,6 +1,6 @@
 # 2022년 11월 백준
 
-- [코드 보러가기(Java)](https://github.com/6suk/TIL/tree/master/baekjoon/src/backjoon_202211)
+- [코드 보러가기(Java)](https://github.com/6suk/TIL/tree/master/Baekjoon/src/backjoon_202211)
 - 1110 완료
 - 1152 완료
 - 1330 완료
