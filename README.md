@@ -6,14 +6,14 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_5 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [2022년 11월 백준](Baekjoon/baekjoon-2022-11.md) - Sun Nov 13 21:07:33 2022 +0900
-- [4. OPP(객체 지향 프로그래밍) / Class Member / 상수](JAVA/4.OPP_ClassMember.md) - Sun Nov 13 17:14:10 2022 +0900
+- [4344 - 평균은 넘겠지](Baekjoon/20221113_4344.md) - Sun Nov 13 21:12:06 2022 +0900
+- [8958 - OX퀴즈](Baekjoon/20221113_8958.md) - Sun Nov 13 21:12:06 2022 +0900
 
 ### Categories
 
@@ -21,6 +21,8 @@ _5 TILs and counting..._
 - [JAVA](#JAVA)
 
 ### [Baekjoon](#Baekjoon)
+- [4344 - 평균은 넘겠지](Baekjoon/20221113_4344.md)
+- [8958 - OX퀴즈](Baekjoon/20221113_8958.md)
 - [2022년 11월 백준](Baekjoon/baekjoon-2022-11.md)
 
 ### [JAVA](#JAVA)
