@@ -1,20 +1,10 @@
-# 4344 - 평균은 넘겠지
-
-- ✍🏻 **Recorded Date** : 2022년 11월 13일 오후 7:59
-- 💬 **Comment** : 통과
-  <br>
-  <br>
-
-## 2022.11.13 - 백준 4344
-
-```java
-package backjoon_20221113;
+package backjoon_202211;
 
 import java.io.*;
 import java.util.*;
 
 /**
- *
+ * 
  * [평균은 넘겠지]
  * 1. 테스트 케이스의 개수 C
  * 2. 학생의 수 N + N개의 점수
@@ -54,23 +44,3 @@ public class Main_4344 {
 		br.close();
 	}
 }
-```
-
-## Comment
-
-- 반올림이라 `Math.round()` 메소드를 쓰면 되겠지 했지만,
-  - 문제에서는 **반올림하여 소수점 세번째까지** 출력해야하는 문제
-- 구글링해서 `String.fomat()` 메소드를 배웠다.
-  - 기존 String 메소드 정리해놓은 곳에 추가로 정리해두었다!
-    [12-2. String / `StringBuilder` Class](https://www.notion.so/12-2-String-StringBuilder-Class-9647b551ea5d4d27ad359b3168cdf897)
-- 다른 분들 코드를 보니 `String.fomat()` 방식으로 `System.out.printf();`도 사용 가능했다!
-
-```java
-// 해당 코드를
-Double result = ((double) count / n) * 100;
-System.out.println(String.format("%.3f", result) + "%");
-
-// 이렇게 바꾸는 것도 가능
-System.out.printf("%.3f", (double) count / n * 100);
-System.out.println("%");
-```
