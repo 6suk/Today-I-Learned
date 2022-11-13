@@ -6,14 +6,14 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [3. 데이터 참조 타입 / 배열 / 향상된 For문 / 열거](JAVA/3 데이터-참조-타입_배열_향상된-For문_열거.md) - Sun Nov 13 16:53:55 2022 +0900
 - [2022년 11월 백준](baekjoon/baekjoon-2022-11.md) - Sun Nov 13 03:18:25 2022 +0900
-- [2. 연산자 / 반복문 / 조건문](JAVA/2.연산자_반복문_조건문.md) - Sat Nov 12 21:01:46 2022 +0900
 
 ### Categories
 
@@ -23,6 +23,7 @@ _3 TILs and counting..._
 ### [JAVA](#JAVA)
 - [1. 자바 구문 / 변수 / 데이터 유형 / 데이터 타입 변환](JAVA/1.JAVA기초.md)
 - [2. 연산자 / 반복문 / 조건문](JAVA/2.연산자_반복문_조건문.md)
+- [3. 데이터 참조 타입 / 배열 / 향상된 For문 / 열거](JAVA/3 데이터-참조-타입_배열_향상된-For문_열거.md)
 
 ### [baekjoon](#baekjoon)
 - [2022년 11월 백준](baekjoon/baekjoon-2022-11.md)
