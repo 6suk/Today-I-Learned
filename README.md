@@ -6,14 +6,14 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [1065 - 한수](Baekjoon/20221115_1065.md) - Tue Nov 15 00:23:14 2022 +0900
 - [6. 상속 / 부모 생성자 호출 / Override](JAVA/6.상속_Override.md) - Mon Nov 14 22:46:47 2022 +0900
-- [5. 패키지 / 접근 제한자 / Getter / Setter](JAVA/5.패키지_접근제한자_Getter와Setter.md) - Mon Nov 14 22:46:25 2022 +0900
 
 ### Categories
 
@@ -25,6 +25,7 @@ _11 TILs and counting..._
 - [4344 - 평균은 넘겠지](Baekjoon/20221113_4344.md)
 - [4673 - 셀프넘버](Baekjoon/20221113_4673.md)
 - [8958 - OX퀴즈](Baekjoon/20221113_8958.md)
+- [1065 - 한수](Baekjoon/20221115_1065.md)
 - [2022년 11월 백준](Baekjoon/baekjoon-2022-11.md)
 
 ### [JAVA](#JAVA)
