@@ -10,10 +10,13 @@ _12 TILs and counting..._
 
 ---
 
-### 2 most recent TILs
+### 5 most recent TILs
 
 - [1065 - 한수](Baekjoon/20221115_1065.md) - Tue Nov 15 00:23:14 2022 +0900
 - [6. 상속 / 부모 생성자 호출 / Override](JAVA/6.상속_Override.md) - Mon Nov 14 22:46:47 2022 +0900
+- [5. 패키지 / 접근 제한자 / Getter / Setter](JAVA/5.패키지_접근제한자_Getter와Setter.md) - Mon Nov 14 22:46:25 2022 +0900
+- [15596 - 정수 N개의 합](Baekjoon/20221113_15596.md) - Sun Nov 13 23:56:17 2022 +0900
+- [4673 - 셀프넘버](Baekjoon/20221113_4673.md) - Sun Nov 13 23:56:17 2022 +0900
 
 ### Categories
 
