@@ -6,14 +6,14 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_9 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [15596 - 정수 N개의 합](Baekjoon/20221113_15596.md) - Sun Nov 13 23:56:17 2022 +0900
-- [4673 - 셀프넘버](Baekjoon/20221113_4673.md) - Sun Nov 13 23:56:17 2022 +0900
+- [6. 상속 / 부모 생성자 호출 / Override](JAVA/6.상속_Override.md) - Mon Nov 14 22:46:47 2022 +0900
+- [5. 패키지 / 접근 제한자 / Getter / Setter](JAVA/5.패키지_접근제한자_Getter와Setter.md) - Mon Nov 14 22:46:25 2022 +0900
 
 ### Categories
 
@@ -32,6 +32,8 @@ _9 TILs and counting..._
 - [2. 연산자 / 반복문 / 조건문](JAVA/2.연산자_반복문_조건문.md)
 - [3. 데이터 참조 타입 / 배열 / 향상된 For문 / 열거](JAVA/3.데이터참조타입_배열_향상된For문_열거.md)
 - [4. OPP(객체 지향 프로그래밍) / Class Member / 상수](JAVA/4.OPP_ClassMember.md)
+- [5. 패키지 / 접근 제한자 / Getter / Setter](JAVA/5.패키지_접근제한자_Getter와Setter.md)
+- [6. 상속 / 부모 생성자 호출 / Override](JAVA/6.상속_Override.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
