@@ -6,4 +6,5 @@
  *
  */
 module Baekjoon {
+	requires org.junit.jupiter.api;
 }
