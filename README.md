@@ -6,17 +6,17 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [7. 다형성 / 추상 클래스 / 추상 메소드](JAVA/7.다형성_타입변환_추상클래스_추상메소드.md) - Tue Nov 15 18:28:29 2022 +0900
 - [11720 - 숫자의 합](Baekjoon/20221115_11720.md) - Tue Nov 15 12:39:04 2022 +0900
 - [1065 - 한수](Baekjoon/20221115_1065.md) - Tue Nov 15 00:23:14 2022 +0900
 - [6. 상속 / 부모 생성자 호출 / Override](JAVA/6.상속_Override.md) - Mon Nov 14 22:46:47 2022 +0900
 - [5. 패키지 / 접근 제한자 / Getter / Setter](JAVA/5.패키지_접근제한자_Getter와Setter.md) - Mon Nov 14 22:46:25 2022 +0900
-- [4673 - 셀프넘버](Baekjoon/20221113_4673.md) - Sun Nov 13 23:56:17 2022 +0900
 
 ### Categories
 
@@ -39,6 +39,7 @@ _13 TILs and counting..._
 - [4. OPP(객체 지향 프로그래밍) / Class Member / 상수](JAVA/4.OPP_ClassMember.md)
 - [5. 패키지 / 접근 제한자 / Getter / Setter](JAVA/5.패키지_접근제한자_Getter와Setter.md)
 - [6. 상속 / 부모 생성자 호출 / Override](JAVA/6.상속_Override.md)
+- [7. 다형성 / 추상 클래스 / 추상 메소드](JAVA/7.다형성_타입변환_추상클래스_추상메소드.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
