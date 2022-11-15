@@ -18,9 +18,9 @@ jobs:
         uses: cflynn07/github-action-til-autoformat-readme@1.2.0
         with:
           description: |
-            ✍🏻 그날그날 공부한 내용은 [**노션 바로가기**](https://6suk.notion.site/d8178c919339498ca4d8a80ef05734f2?v=0cd23c88e74b4c68ab86275323f42f88)
-            📑 깃허브 TIL은 정리된 내용을 재업로드하며 **복습하는 공간**입니다!
-            🐣 아직 어려운 내용이 많지만, 최대한 **'즐겁게'** 극복 중입니다!
+            ✍🏻 그날그날 공부한 내용은 [**노션 바로가기**](https://6suk.notion.site/d8178c919339498ca4d8a80ef05734f2?v=0cd23c88e74b4c68ab86275323f42f88)<br>
+            📑 깃허브 TIL은 정리된 내용을 재업로드하며 **복습하는 공간**입니다!<br>
+            🐣 아직 어려운 내용이 많지만, 최대한 **'즐겁게'** 극복 중입니다!<br>
           footer: |
             [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
             [2]: https://github.com/jbranchaud/til
