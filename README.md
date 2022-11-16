@@ -33,9 +33,9 @@ _17 TILs and counting..._
 - [2022년 11월 백준](Baekjoon/baekjoon-2022-11.md)
 
 ### [JAVA](#JAVA)
-- [1. 자바 구문 / 변수 / 데이터 유형 / 데이터 타입 변환](JAVA/1.JAVA기초.md)
+- [01. 자바 구문 / 변수 / 데이터 유형 / 데이터 타입 변환](JAVA/1.JAVA기초.md)
 - [10. 예외 / Try-Catch / Throws / 사용자 정의 예외](JAVA/10.Throws_Exception.md)
-- [2. 연산자 / 반복문 / 조건문](JAVA/2.연산자_반복문_조건문.md)
+- [02. 연산자 / 반복문 / 조건문](JAVA/2.연산자_반복문_조건문.md)
 - [3. 데이터 참조 타입 / 배열 / 향상된 For문 / 열거](JAVA/3.데이터참조타입_배열_향상된For문_열거.md)
 - [4. OPP(객체 지향 프로그래밍) / Class Member / 상수](JAVA/4.OPP_ClassMember.md)
 - [5. 패키지 / 접근 제한자 / Getter / Setter](JAVA/5.패키지_접근제한자_Getter와Setter.md)
