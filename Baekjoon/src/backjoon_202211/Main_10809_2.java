@@ -14,6 +14,8 @@ public class Main_10809_2 {
 	public static void main(String[] args) throws IOException {
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		char re = 'a';
+		System.out.println((int)re);
 		String str = br.readLine();
 		br.close();
 		int[] azBox = new int[26];
@@ -34,5 +36,6 @@ public class Main_10809_2 {
 		bw.flush();
 		bw.close();
 	}
+	
 	
 }
