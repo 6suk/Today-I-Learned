@@ -12,11 +12,11 @@ _17 TILs and counting..._
 
 ### 5 most recent TILs
 
+- [01. 자바 구문 / 변수 / 데이터 유형 / 데이터 타입 변환](JAVA/01.JAVA기초.md) - Wed Nov 16 22:43:06 2022 +0900
+- [02. 연산자 / 반복문 / 조건문](JAVA/02.연산자_반복문_조건문.md) - Wed Nov 16 22:43:06 2022 +0900
 - [10. 예외 / Try-Catch / Throws / 사용자 정의 예외](JAVA/10.Throws_Exception.md) - Wed Nov 16 22:35:26 2022 +0900
 - [9. 중첩 클래스](JAVA/9.중첩클래스.md) - Wed Nov 16 22:34:30 2022 +0900
 - [8. 인터페이스](JAVA/8.인터페이스.md) - Tue Nov 15 18:39:18 2022 +0900
-- [7. 다형성 / 추상 클래스 / 추상 메소드](JAVA/7.다형성_타입변환_추상클래스_추상메소드.md) - Tue Nov 15 18:28:29 2022 +0900
-- [11720 - 숫자의 합](Baekjoon/20221115_11720.md) - Tue Nov 15 12:39:04 2022 +0900
 
 ### Categories
 
@@ -33,9 +33,9 @@ _17 TILs and counting..._
 - [2022년 11월 백준](Baekjoon/baekjoon-2022-11.md)
 
 ### [JAVA](#JAVA)
-- [01. 자바 구문 / 변수 / 데이터 유형 / 데이터 타입 변환](JAVA/1.JAVA기초.md)
+- [01. 자바 구문 / 변수 / 데이터 유형 / 데이터 타입 변환](JAVA/01.JAVA기초.md)
+- [02. 연산자 / 반복문 / 조건문](JAVA/02.연산자_반복문_조건문.md)
 - [10. 예외 / Try-Catch / Throws / 사용자 정의 예외](JAVA/10.Throws_Exception.md)
-- [02. 연산자 / 반복문 / 조건문](JAVA/2.연산자_반복문_조건문.md)
 - [3. 데이터 참조 타입 / 배열 / 향상된 For문 / 열거](JAVA/3.데이터참조타입_배열_향상된For문_열거.md)
 - [4. OPP(객체 지향 프로그래밍) / Class Member / 상수](JAVA/4.OPP_ClassMember.md)
 - [5. 패키지 / 접근 제한자 / Getter / Setter](JAVA/5.패키지_접근제한자_Getter와Setter.md)
