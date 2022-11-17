@@ -6,17 +6,17 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_18 TILs and counting..._
+_22 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [12-1. API - Object / System / Class Class](JAVA/85.API-Object_System_Class.md) - Thu Nov 17 23:14:14 2022 +0900
+- [12-4. Math / 정규 표현식 / Pattern / 포장 Class](JAVA/89.API-MATH.md) - Thu Nov 17 23:14:14 2022 +0900
+- [12-3. API - Objects / Arrays Class](JAVA/87.API-Objects,ArraysClass.md) - Thu Nov 17 23:14:14 2022 +0900
+- [12-2. API - String / StringBuilder Class](JAVA/86.API-String.md) - Thu Nov 17 23:14:14 2022 +0900
 - [9. 중첩 클래스](JAVA/91.중첩클래스.md) - Thu Nov 17 22:35:20 2022 +0900
-- [2. 연산자 / 반복문 / 조건문](JAVA/98.연산자_반복문_조건문.md) - Thu Nov 17 22:35:20 2022 +0900
-- [3. 데이터 참조 타입 / 배열 / 향상된 For문 / 열거](JAVA/97.데이터참조타입_배열_향상된For문_열거.md) - Thu Nov 17 22:35:20 2022 +0900
-- [4. OPP(객체 지향 프로그래밍) / Class Member / 상수](JAVA/96.OPP_ClassMember.md) - Thu Nov 17 22:35:20 2022 +0900
-- [5. 패키지 / 접근 제한자 / Getter / Setter](JAVA/95.패키지_접근제한자_Getter와Setter.md) - Thu Nov 17 22:35:20 2022 +0900
 
 ### Categories
 
@@ -34,6 +34,10 @@ _18 TILs and counting..._
 - [10809 - 알파벳 찾기](Baekjoon/202211-V5-10809.md)
 
 ### [JAVA](#JAVA)
+- [12-1. API - Object / System / Class Class](JAVA/85.API-Object_System_Class.md)
+- [12-2. API - String / StringBuilder Class](JAVA/86.API-String.md)
+- [12-3. API - Objects / Arrays Class](JAVA/87.API-Objects,ArraysClass.md)
+- [12-4. Math / 정규 표현식 / Pattern / 포장 Class](JAVA/89.API-MATH.md)
 - [10. 예외 / Try-Catch / Throws / 사용자 정의 예외](JAVA/90.Throws_Exception.md)
 - [9. 중첩 클래스](JAVA/91.중첩클래스.md)
 - [8. 인터페이스](JAVA/92.인터페이스.md)
