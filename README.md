@@ -6,17 +6,17 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_22 TILs and counting..._
+_23 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
-- [12-1. API - Object / System / Class Class](JAVA/85.API-Object_System_Class.md) - Thu Nov 17 23:14:14 2022 +0900
+- [2675 - 문자열 반복](Baekjoon/202211-V2-2675.md) - Thu Nov 17 23:20:48 2022 +0900
 - [12-4. Math / 정규 표현식 / Pattern / 포장 Class](JAVA/89.API-MATH.md) - Thu Nov 17 23:14:14 2022 +0900
 - [12-3. API - Objects / Arrays Class](JAVA/87.API-Objects,ArraysClass.md) - Thu Nov 17 23:14:14 2022 +0900
 - [12-2. API - String / StringBuilder Class](JAVA/86.API-String.md) - Thu Nov 17 23:14:14 2022 +0900
-- [9. 중첩 클래스](JAVA/91.중첩클래스.md) - Thu Nov 17 22:35:20 2022 +0900
+- [12-1. API - Object / System / Class Class](JAVA/85.API-Object_System_Class.md) - Thu Nov 17 23:14:14 2022 +0900
 
 ### Categories
 
@@ -29,6 +29,7 @@ _22 TILs and counting..._
 - [4673 - 셀프넘버](Baekjoon/202211-S5-4673.md)
 - [4344 - 평균은 넘겠지](Baekjoon/202211-V1-4344.md)
 - [15596 - 정수 N개의 합](Baekjoon/202211-V2-15596.md)
+- [2675 - 문자열 반복](Baekjoon/202211-V2-2675.md)
 - [8958 - OX퀴즈](Baekjoon/202211-V2-8958.md)
 - [11720 - 숫자의 합](Baekjoon/202211-V4-11720.md)
 - [10809 - 알파벳 찾기](Baekjoon/202211-V5-10809.md)
