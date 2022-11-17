@@ -1,28 +1,90 @@
-name: Build README
+# name: Build README
+# on:
+#   push:
+#     branches:
+#       - master
+#     paths-ignore:
+#       - README.md
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Check out repo
+#         uses: actions/checkout@v2
+#         with:
+#           # necessary for github-action-til-autoformat-readme
+#           fetch-depth: 0
+#       - name: Autoformat README
+#         uses: cflynn07/github-action-til-autoformat-readme@1.2.0
+#         with:
+#           description: |
+#             - ✍🏻 그날그날 공부한 내용은 [**노션 바로가기**](https://6suk.notion.site/d8178c919339498ca4d8a80ef05734f2?v=0cd23c88e74b4c68ab86275323f42f88)
+#             - 📑 TIL은 정리된 내용을 재업로드하며 **복습하는 공간**입니다!
+#             - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
+#           footer: |
+#             [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
+#             [2]: https://github.com/jbranchaud/til
+#           list_most_recent: 5 # optional, lists most recent TILS below description
+#           date_format: '2020 Jan 15:04' # optional, must align to https://golang.org/pkg/time/#Time.Format
+name: Build README and deploy Datasette
+
 on:
   push:
     branches:
       - master
     paths-ignore:
       - README.md
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo
         uses: actions/checkout@v2
+        # We need full history to introspect created/updated:
         with:
-          # necessary for github-action-til-autoformat-readme
           fetch-depth: 0
-      - name: Autoformat README
-        uses: cflynn07/github-action-til-autoformat-readme@1.2.0
+      - name: Set up Python
+        uses: actions/setup-python@v1
         with:
-          description: |
-            - ✍🏻 그날그날 공부한 내용은 [**노션 바로가기**](https://6suk.notion.site/d8178c919339498ca4d8a80ef05734f2?v=0cd23c88e74b4c68ab86275323f42f88)
-            - 📑 TIL은 정리된 내용을 재업로드하며 **복습하는 공간**입니다!
-            - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
-          footer: |
-            [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
-            [2]: https://github.com/jbranchaud/til
-          list_most_recent: 5 # optional, lists most recent TILS below description
-          date_format: '2020 Jan 15:04' # optional, must align to https://golang.org/pkg/time/#Time.Format
+          python-version: 3.8
+      - uses: actions/cache@v1
+        name: Configure pip caching
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Build database
+        run: python build_database.py
+      - name: Update README
+        run: |-
+          python update_readme.py --rewrite
+          cat README.md
+      - name: Commit and push if README changed
+        run: |-
+          git diff
+          git config --global user.email "readme-bot@example.com"
+          git config --global user.name "README-bot"
+          git diff --quiet || (git add README.md && git commit -m "Updated README")
+          git push
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - name: Deploy Datasette using Zeit Now
+        env:
+          NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
+        run: |-
+          datasette publish now2 til.db \
+            --token $NOW_TOKEN \
+            --project simon-til \
+            --metadata metadata.json \
+            --install py-gfm \
+            --install datasette-render-markdown \
+            --install datasette-template-sql \
+            --template-dir templates
