@@ -6,17 +6,17 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_23 TILs and counting..._
+_24 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [[Mini Project] - JDBC / BaseballPlayer](JAVA/84.MiniProgect-BaseballPlayer.md) - Fri Nov 18 19:56:17 2022 +0900
 - [2675 - 문자열 반복](Baekjoon/202211-V2-2675.md) - Thu Nov 17 23:20:48 2022 +0900
 - [12-4. Math / 정규 표현식 / Pattern / 포장 Class](JAVA/89.API-MATH.md) - Thu Nov 17 23:14:14 2022 +0900
 - [12-3. API - Objects / Arrays Class](JAVA/87.API-Objects,ArraysClass.md) - Thu Nov 17 23:14:14 2022 +0900
 - [12-2. API - String / StringBuilder Class](JAVA/86.API-String.md) - Thu Nov 17 23:14:14 2022 +0900
-- [12-1. API - Object / System / Class Class](JAVA/85.API-Object_System_Class.md) - Thu Nov 17 23:14:14 2022 +0900
 
 ### Categories
 
@@ -35,6 +35,7 @@ _23 TILs and counting..._
 - [10809 - 알파벳 찾기](Baekjoon/202211-V5-10809.md)
 
 ### [JAVA](#JAVA)
+- [[Mini Project] - JDBC / BaseballPlayer](JAVA/84.MiniProgect-BaseballPlayer.md)
 - [12-1. API - Object / System / Class Class](JAVA/85.API-Object_System_Class.md)
 - [12-2. API - String / StringBuilder Class](JAVA/86.API-String.md)
 - [12-3. API - Objects / Arrays Class](JAVA/87.API-Objects,ArraysClass.md)
