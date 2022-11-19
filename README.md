@@ -12,7 +12,7 @@ _25 TILs and counting..._
 
 ### 5 most recent TILs
 
-- [1. GIT 명령어 / Clone / PULL](GIT/99.Git_명령어_Clone _PULL.md) - Sat Nov 19 15:11:34 2022 +0900
+- [1. GIT 명령어 / Clone / PULL](GIT/99.명령어_Clone _PULL.md) - Sat Nov 19 20:53:38 2022 +0900
 - [[Mini Project] - JDBC / BaseballPlayer](JAVA/84.MiniProgect-BaseballPlayer.md) - Fri Nov 18 19:56:17 2022 +0900
 - [2675 - 문자열 반복](Baekjoon/202211-V2-2675.md) - Thu Nov 17 23:20:48 2022 +0900
 - [12-4. Math / 정규 표현식 / Pattern / 포장 Class](JAVA/89.API-MATH.md) - Thu Nov 17 23:14:14 2022 +0900
@@ -36,7 +36,7 @@ _25 TILs and counting..._
 - [10809 - 알파벳 찾기](Baekjoon/202211-V5-10809.md)
 
 ### [GIT](#GIT)
-- [1. GIT 명령어 / Clone / PULL](GIT/99.Git_명령어_Clone _PULL.md)
+- [1. GIT 명령어 / Clone / PULL](GIT/99.명령어_Clone _PULL.md)
 
 ### [JAVA](#JAVA)
 - [[Mini Project] - JDBC / BaseballPlayer](JAVA/84.MiniProgect-BaseballPlayer.md)
