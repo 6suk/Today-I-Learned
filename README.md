@@ -6,21 +6,22 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_24 TILs and counting..._
+_25 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [1. 명령어 / Clone / PULL](GIT/99.Git_명령어_Clone _PULL.md) - Sat Nov 19 15:11:34 2022 +0900
 - [[Mini Project] - JDBC / BaseballPlayer](JAVA/84.MiniProgect-BaseballPlayer.md) - Fri Nov 18 19:56:17 2022 +0900
 - [2675 - 문자열 반복](Baekjoon/202211-V2-2675.md) - Thu Nov 17 23:20:48 2022 +0900
 - [12-4. Math / 정규 표현식 / Pattern / 포장 Class](JAVA/89.API-MATH.md) - Thu Nov 17 23:14:14 2022 +0900
 - [12-3. API - Objects / Arrays Class](JAVA/87.API-Objects,ArraysClass.md) - Thu Nov 17 23:14:14 2022 +0900
-- [12-2. API - String / StringBuilder Class](JAVA/86.API-String.md) - Thu Nov 17 23:14:14 2022 +0900
 
 ### Categories
 
 - [Baekjoon](#Baekjoon)
+- [GIT](#GIT)
 - [JAVA](#JAVA)
 
 ### [Baekjoon](#Baekjoon)
@@ -33,6 +34,9 @@ _24 TILs and counting..._
 - [8958 - OX퀴즈](Baekjoon/202211-V2-8958.md)
 - [11720 - 숫자의 합](Baekjoon/202211-V4-11720.md)
 - [10809 - 알파벳 찾기](Baekjoon/202211-V5-10809.md)
+
+### [GIT](#GIT)
+- [1. 명령어 / Clone / PULL](GIT/99.Git_명령어_Clone _PULL.md)
 
 ### [JAVA](#JAVA)
 - [[Mini Project] - JDBC / BaseballPlayer](JAVA/84.MiniProgect-BaseballPlayer.md)
