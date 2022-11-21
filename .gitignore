@@ -3,7 +3,10 @@
 
 # 6sukkkk #
 Templates.md
-.properties
+*.properties
+.prettierignore
+.gitmessage.txt
+.project
 
 ### Eclipse ###
 .metadata
