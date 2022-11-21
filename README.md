@@ -6,17 +6,17 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_28 TILs and counting..._
+_29 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [<head>](JAVA/test.md) - Mon Nov 21 20:11:46 2022 +0900
 - [Scanner EOP / Buffer EOP](JAVA/83.Scanner-EOP_Buffer-EOP.md) - Mon Nov 21 19:47:40 2022 +0900
 - [2941 - 크로아티아 알파벳](Baekjoon/202211-S5-2941.md) - Mon Nov 21 12:51:00 2022 +0900
 - [2. Branch / Merge / Workflow](GIT/98.Branch_Merge_Workflow.md) - Sun Nov 20 13:09:56 2022 +0900
 - [1. GIT 명령어 / Clone / PULL](GIT/99.명령어_Clone_PULL.md) - Sat Nov 19 20:56:11 2022 +0900
-- [[Mini Project] - JDBC / BaseballPlayer](JAVA/84.MiniProgect-BaseballPlayer.md) - Fri Nov 18 19:56:17 2022 +0900
 
 ### Categories
 
@@ -57,6 +57,7 @@ _28 TILs and counting..._
 - [3. 데이터 참조 타입 / 배열 / 향상된 For문 / 열거](JAVA/97.데이터참조타입_배열_향상된For문_열거.md)
 - [2. 연산자 / 반복문 / 조건문](JAVA/98.연산자_반복문_조건문.md)
 - [1. 자바 구문 / 변수 / 데이터 유형 / 데이터 타입 변환](JAVA/99.JAVA기초.md)
+- [<head>](JAVA/test.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
