@@ -12,7 +12,7 @@ _27 TILs and counting..._
 
 ### 5 most recent TILs
 
-- [2941 - 크로아티아 알파벳](Baekjoon/202211-S5-2941 copy.md) - Mon Nov 21 12:50:27 2022 +0900
+- [2941 - 크로아티아 알파벳](Baekjoon/202211-S5-2941.md) - Mon Nov 21 12:51:00 2022 +0900
 - [2. Branch / Merge / Workflow](GIT/98.Branch_Merge_Workflow.md) - Sun Nov 20 13:09:56 2022 +0900
 - [1. GIT 명령어 / Clone / PULL](GIT/99.명령어_Clone_PULL.md) - Sat Nov 19 20:56:11 2022 +0900
 - [[Mini Project] - JDBC / BaseballPlayer](JAVA/84.MiniProgect-BaseballPlayer.md) - Fri Nov 18 19:56:17 2022 +0900
@@ -27,7 +27,7 @@ _27 TILs and counting..._
 ### [Baekjoon](#Baekjoon)
 - [2022년 11월 백준](Baekjoon/202211-All.md)
 - [1065 - 한수](Baekjoon/202211-S4-1065.md)
-- [2941 - 크로아티아 알파벳](Baekjoon/202211-S5-2941 copy.md)
+- [2941 - 크로아티아 알파벳](Baekjoon/202211-S5-2941.md)
 - [4673 - 셀프넘버](Baekjoon/202211-S5-4673.md)
 - [4344 - 평균은 넘겠지](Baekjoon/202211-V1-4344.md)
 - [15596 - 정수 N개의 합](Baekjoon/202211-V2-15596.md)
