@@ -6,17 +6,17 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_28 TILs and counting..._
+_31 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [16-2. Set - HashSet, TreeSet](JAVA/81.Set-HashSet-TreeSet.md) - Tue Nov 22 21:25:57 2022 +0900
+- [16-3. Map - HashMap, TreeMap](JAVA/82.Map-HashMap_TreeMap.md) - Tue Nov 22 21:25:57 2022 +0900
+- [16-1. List - ArrayList](JAVA/80.List-ArrayList.md) - Tue Nov 22 21:25:57 2022 +0900
 - [Scanner EOP / Buffer EOP](JAVA/83.Scanner-EOP_Buffer-EOP.md) - Mon Nov 21 19:47:40 2022 +0900
 - [2941 - 크로아티아 알파벳](Baekjoon/202211-S5-2941.md) - Mon Nov 21 12:51:00 2022 +0900
-- [2. Branch / Merge / Workflow](GIT/98.Branch_Merge_Workflow.md) - Sun Nov 20 13:09:56 2022 +0900
-- [1. GIT 명령어 / Clone / PULL](GIT/99.명령어_Clone_PULL.md) - Sat Nov 19 20:56:11 2022 +0900
-- [[Mini Project] - JDBC / BaseballPlayer](JAVA/84.MiniProgect-BaseballPlayer.md) - Fri Nov 18 19:56:17 2022 +0900
 
 ### Categories
 
@@ -41,6 +41,9 @@ _28 TILs and counting..._
 - [1. GIT 명령어 / Clone / PULL](GIT/99.명령어_Clone_PULL.md)
 
 ### [JAVA](#JAVA)
+- [16-1. List - ArrayList](JAVA/80.List-ArrayList.md)
+- [16-2. Set - HashSet, TreeSet](JAVA/81.Set-HashSet-TreeSet.md)
+- [16-3. Map - HashMap, TreeMap](JAVA/82.Map-HashMap_TreeMap.md)
 - [Scanner EOP / Buffer EOP](JAVA/83.Scanner-EOP_Buffer-EOP.md)
 - [[Mini Project] - JDBC / BaseballPlayer](JAVA/84.MiniProgect-BaseballPlayer.md)
 - [12-1. API - Object / System / Class Class](JAVA/85.API-Object_System_Class.md)
