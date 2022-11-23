@@ -6,17 +6,17 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_31 TILs and counting..._
+_34 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [17-3. Stream - 최종 연산](JAVA/79.Stream-최종연산.md) - Wed Nov 23 20:40:13 2022 +0900
+- [17-2. Stream - 중간 연산](JAVA/78.Stream-중간연산.md) - Wed Nov 23 20:40:13 2022 +0900
+- [17-1. Stream - 스트림](JAVA/77.Stream-스트림.md) - Wed Nov 23 20:40:13 2022 +0900
 - [16-2. Set - HashSet, TreeSet](JAVA/81.Set-HashSet-TreeSet.md) - Tue Nov 22 21:25:57 2022 +0900
 - [16-3. Map - HashMap, TreeMap](JAVA/82.Map-HashMap_TreeMap.md) - Tue Nov 22 21:25:57 2022 +0900
-- [16-1. List - ArrayList](JAVA/80.List-ArrayList.md) - Tue Nov 22 21:25:57 2022 +0900
-- [Scanner EOP / Buffer EOP](JAVA/83.Scanner-EOP_Buffer-EOP.md) - Mon Nov 21 19:47:40 2022 +0900
-- [2941 - 크로아티아 알파벳](Baekjoon/202211-S5-2941.md) - Mon Nov 21 12:51:00 2022 +0900
 
 ### Categories
 
@@ -41,6 +41,9 @@ _31 TILs and counting..._
 - [1. GIT 명령어 / Clone / PULL](GIT/99.명령어_Clone_PULL.md)
 
 ### [JAVA](#JAVA)
+- [17-1. Stream - 스트림](JAVA/77.Stream-스트림.md)
+- [17-2. Stream - 중간 연산](JAVA/78.Stream-중간연산.md)
+- [17-3. Stream - 최종 연산](JAVA/79.Stream-최종연산.md)
 - [16-1. List - ArrayList](JAVA/80.List-ArrayList.md)
 - [16-2. Set - HashSet, TreeSet](JAVA/81.Set-HashSet-TreeSet.md)
 - [16-3. Map - HashMap, TreeMap](JAVA/82.Map-HashMap_TreeMap.md)
