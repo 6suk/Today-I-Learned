@@ -1,56 +1,55 @@
 package backjoon_202211;
 
-import java.util.*;
+import java.io.*;
 
 public class Main_1316 {
 
-	public static void main(String[] args) {
-		int[] tmp = new int[26];
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		int loop = Integer.valueOf(br.readLine());
+		int count = 0;
 
-		String s1 = "abcabc";
-		String s2 = "new";
-		String s3 = "year";
-		String[] str = s1.split("");
-		
-		List<String> list = new ArrayList<>();
-		
-		for (int i = 0; i < s1.length(); i++) {
-			tmp[s1.charAt(i)-97] += 1;
-			if(tmp[s1.charAt(i)-97] > 1) {
-				list.add(String.valueOf(s1.charAt(i)));
-			}
+		for (int i = 0; i < loop; i++) {
+			count += getCount(br.readLine());
 		}
-		
-		list.forEach(x -> System.out.println(x));
-		
-		int cnt = 0;
-		int result = 0;
-		int result2 = 0;
-		int startIndex = 0;
-		
-		for(int a : tmp) {
-			if(a > 1) {
-				String s = String.valueOf((char)(cnt+97));
-				startIndex = Arrays.binarySearch(str, s);
-				result = cnt;
-				result2 = a;
-			}
-			cnt++;
-		}
-		
-		int sum = 0;
-		for(int i = 0; i < 3; i++) {
-			sum += (startIndex+i);
-		}
-		
-		System.out.println(startIndex);
-		System.out.println(result);
-		System.out.println(result2);
-		System.out.println(Arrays.toString(tmp));
-		
-
+		br.close();
+		System.out.println(count);
 	}
-	
 
-
+	public static int getCount(String str) {
+		boolean[] c = new boolean[26];
+		
+		for (int i = 1; i < str.length(); i++) {
+			int a = str.charAt(i-1);
+			int b = str.charAt(i);
+			if (a != b && c[b - 97] == true) {
+				return 0;
+			} else if (a == b || a != b) {
+				c[a - 97] = true;
+				c[b - 97] = true;
+			}
+		}
+		return 1;
+		
+	}
+//	public static int getCount(String str) {
+//		boolean[] c = new boolean[26];
+//		int tmp = 0, cnt = 0;
+//
+//		for (int i = 0; i < str.length(); i++) {
+//			int a = str.charAt(i);
+//			if (tmp != a && c[a - 97] == true) {
+//				return 0;
+//			} else if (tmp == a || tmp != a) {
+//				c[a - 97] = true;
+//				tmp = a;
+//				cnt++;
+//			}
+//		}
+//		if (cnt == str.length()) {
+//			return 1;
+//		}
+//		return 0;
+//
+//	}
 }
