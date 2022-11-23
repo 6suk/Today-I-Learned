@@ -6,17 +6,17 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_34 TILs and counting..._
+_35 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [1316 - 그룹 단어 체커](Baekjoon/202211-S5-1316.md) - Wed Nov 23 23:46:46 2022 +0900
 - [17-3. Stream - 최종 연산](JAVA/79.Stream-최종연산.md) - Wed Nov 23 20:40:13 2022 +0900
 - [17-2. Stream - 중간 연산](JAVA/78.Stream-중간연산.md) - Wed Nov 23 20:40:13 2022 +0900
 - [17-1. Stream - 스트림](JAVA/77.Stream-스트림.md) - Wed Nov 23 20:40:13 2022 +0900
 - [16-2. Set - HashSet, TreeSet](JAVA/81.Set-HashSet-TreeSet.md) - Tue Nov 22 21:25:57 2022 +0900
-- [16-3. Map - HashMap, TreeMap](JAVA/82.Map-HashMap_TreeMap.md) - Tue Nov 22 21:25:57 2022 +0900
 
 ### Categories
 
@@ -27,6 +27,7 @@ _34 TILs and counting..._
 ### [Baekjoon](#Baekjoon)
 - [2022년 11월 백준](Baekjoon/202211-All.md)
 - [1065 - 한수](Baekjoon/202211-S4-1065.md)
+- [1316 - 그룹 단어 체커](Baekjoon/202211-S5-1316.md)
 - [2941 - 크로아티아 알파벳](Baekjoon/202211-S5-2941.md)
 - [4673 - 셀프넘버](Baekjoon/202211-S5-4673.md)
 - [4344 - 평균은 넘겠지](Baekjoon/202211-V1-4344.md)
