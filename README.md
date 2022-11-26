@@ -12,8 +12,8 @@ _39 TILs and counting..._
 
 ### 5 most recent TILs
 
+- [18-1. 데이터 입출력- IOStream,Writer,Reader](JAVA/75.데이터입출력-IOStream_Writer_Reader.md) - Sat Nov 26 23:06:55 2022 +0900
 - [18-2. 데이터 입출력 - 보조스트림](JAVA/76.데이터입출력-보조스트림.md) - Sat Nov 26 22:24:06 2022 +0900
-- [18-1. 데이터 입출력- IOStream,Writer,Reader](JAVA/75.데이터 입출력-IOStream_Writer_Reader.md) - Sat Nov 26 22:24:06 2022 +0900
 - [1. HTML - 기본 태그](HTML,CSS/99.HTML-기본태그.md) - Thu Nov 24 20:59:40 2022 +0900
 - [2. HTML - 입력 양식 태그](HTML,CSS/98.HTML-입력양식태그.md) - Thu Nov 24 20:59:40 2022 +0900
 - [1316 - 그룹 단어 체커](Baekjoon/202211-S5-1316.md) - Wed Nov 23 23:46:46 2022 +0900
@@ -47,7 +47,7 @@ _39 TILs and counting..._
 - [1. HTML - 기본 태그](HTML,CSS/99.HTML-기본태그.md)
 
 ### [JAVA](#JAVA)
-- [18-1. 데이터 입출력- IOStream,Writer,Reader](JAVA/75.데이터 입출력-IOStream_Writer_Reader.md)
+- [18-1. 데이터 입출력- IOStream,Writer,Reader](JAVA/75.데이터입출력-IOStream_Writer_Reader.md)
 - [18-2. 데이터 입출력 - 보조스트림](JAVA/76.데이터입출력-보조스트림.md)
 - [17-1. Stream - 스트림](JAVA/77.Stream-스트림.md)
 - [17-2. Stream - 중간 연산](JAVA/78.Stream-중간연산.md)
