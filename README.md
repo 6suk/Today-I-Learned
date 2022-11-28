@@ -59,7 +59,7 @@ _42 TILs and counting..._
 - [16-2. Set - HashSet, TreeSet](JAVA/81.Set-HashSet-TreeSet.md)
 - [16-3. Map - HashMap, TreeMap](JAVA/82.Map-HashMap_TreeMap.md)
 - [Scanner EOP / Buffer EOP](JAVA/83.Scanner-EOP_Buffer-EOP.md)
-- [[Mini Project] - JDBC / BaseballPlayer](JAVA/84.MiniProgect-BaseballPlayer.md)
+- [[⭐Mini Project] - JDBC / BaseballPlayer](JAVA/84.MiniProgect-BaseballPlayer.md)
 - [12-1. API - Object / System / Class Class](JAVA/85.API-Object_System_Class.md)
 - [12-2. API - String / StringBuilder Class](JAVA/86.API-String.md)
 - [12-3. API - Objects / Arrays Class](JAVA/87.API-Objects,ArraysClass.md)
