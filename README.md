@@ -6,7 +6,7 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_48 TILs and counting..._
+_49 TILs and counting..._
 
 ---
 
@@ -15,8 +15,8 @@ _48 TILs and counting..._
 - [1. SQL - SELECT / WHERE](SQL/99.SQL-SELECT_WHERE.md) - Wed Nov 30 18:11:19 2022 +0900
 - [7. HTML - 식별자 / Form 속성](HTML+CSS/91.HTML-식별자_Form속성.md) - Wed Nov 30 18:02:43 2022 +0900
 - [[🍪Snack Project] - 1시간 스낵 과제](HTML+CSS/92.SnackProject-1시간과제.md) - Tue Nov 29 17:12:50 2022 +0900
-- [5. CSS - Media Query Break Point](HTML+CSS/94.CSS-MediaQueryBreakPoint.md) - Tue Nov 29 17:07:47 2022 +0900
 - [6. CSS - 반응형 웹](HTML+CSS/93.CSS-반응형웹.md) - Tue Nov 29 17:07:47 2022 +0900
+- [5. CSS - Media Query Break Point](HTML+CSS/94.CSS-MediaQueryBreakPoint.md) - Tue Nov 29 17:07:47 2022 +0900
 
 ### Categories
 
@@ -81,6 +81,7 @@ _48 TILs and counting..._
 - [1. 자바 구문 / 변수 / 데이터 유형 / 데이터 타입 변환](JAVA/99.JAVA기초.md)
 
 ### [SQL](#SQL)
+- [3. SQL - 테이블 생성 및 조작 / DATE 조작](SQL/97.SQL-CREATETABLE_DATE.md)
 - [2. SQL - UPDATE / INSERT / DELETE](SQL/98.SQL-UPDATE_INSERT_DELETE.md)
 - [1. SQL - SELECT / WHERE](SQL/99.SQL-SELECT_WHERE.md)
 
