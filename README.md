@@ -82,8 +82,8 @@ _52 TILs and counting..._
 - [1. 자바 구문 / 변수 / 데이터 유형 / 데이터 타입 변환](JAVA/99.JAVA기초.md)
 
 ### [SQL](#SQL)
-- [4. SQL - JDBC / Connection](SQL/95.SQL-JDBC_Connection.md)
-- [3. SQL - JOIN](SQL/96.SQL-JOIN.md)
+- [5. SQL - JDBC / Connection](SQL/95.SQL-JDBC_Connection.md)
+- [4. SQL - JOIN](SQL/96.SQL-JOIN.md)
 - [3. SQL - 테이블 생성 및 조작 / DATE 조작](SQL/97.SQL-CREATETABLE_DATE.md)
 - [2. SQL - UPDATE / INSERT / DELETE](SQL/98.SQL-UPDATE_INSERT_DELETE.md)
 - [1. SQL - SELECT / WHERE](SQL/99.SQL-SELECT_WHERE.md)
