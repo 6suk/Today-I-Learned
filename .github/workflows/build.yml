@@ -1,7 +1,3 @@
-- name: TIL Auto-Format README
-  uses: cflynn07/github-action-til-autoformat-readme@1.2.0
-
-
 name: Build README
 on:
   push:
