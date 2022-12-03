@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo
-        uses: actions/aws@v2.0.1
+        uses: actions/checkout@v2.0.1
         with:
           # necessary for github-action-til-autoformat-readme
           fetch-depth: 0
