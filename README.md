@@ -10,14 +10,10 @@ _49 TILs and counting..._
 
 ---
 
-### 6 most recent TILs
+### 2 most recent TILs
 
 - [1. SQL - SELECT / WHERE](SQL/99.SQL-SELECT_WHERE.md) - Wed Nov 30 18:11:19 2022 +0900
 - [7. HTML - 식별자 / Form 속성](HTML+CSS/91.HTML-식별자_Form속성.md) - Wed Nov 30 18:02:43 2022 +0900
-- [[🍪Snack Project] - 1시간 스낵 과제](HTML+CSS/92.SnackProject-1시간과제.md) - Tue Nov 29 17:12:50 2022 +0900
-- [6. CSS - 반응형 웹](HTML+CSS/93.CSS-반응형웹.md) - Tue Nov 29 17:07:47 2022 +0900
-- [5. CSS - Media Query Break Point](HTML+CSS/94.CSS-MediaQueryBreakPoint.md) - Tue Nov 29 17:07:47 2022 +0900
-- [4. CSS - position / overflow / float / Layout](HTML+CSS/96.CSS-position-overflow-float-Layout-add.md) - Mon Nov 28 09:37:34 2022 +0900
 
 ### Categories
 
