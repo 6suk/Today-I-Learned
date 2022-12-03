@@ -6,7 +6,7 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_48 TILs and counting..._
+_49 TILs and counting..._
 
 ---
 
@@ -83,6 +83,7 @@ _48 TILs and counting..._
 - [1. 자바 구문 / 변수 / 데이터 유형 / 데이터 타입 변환](JAVA/99.JAVA기초.md)
 
 ### [SQL](#SQL)
+- [2. SQL - UPDATE / INSERT / DELETE](SQL/98.SQL-UPDATE-INSERT-DELETE.md)
 - [1. SQL - SELECT / WHERE](SQL/99.SQL-SELECT_WHERE.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
