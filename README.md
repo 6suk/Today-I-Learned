@@ -6,7 +6,7 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_53 TILs and counting..._
+_55 TILs and counting..._
 
 ---
 
@@ -16,6 +16,7 @@ _53 TILs and counting..._
 - [GIT](#GIT)
 - [HTML+CSS](#HTML+CSS)
 - [JAVA](#JAVA)
+- [JavaScript](#JavaScript)
 - [SQL](#SQL)
 
 ### [Baekjoon](#Baekjoon)
@@ -72,6 +73,10 @@ _53 TILs and counting..._
 - [3. 데이터 참조 타입 / 배열 / 향상된 For문 / 열거](JAVA/97.데이터참조타입_배열_향상된For문_열거.md)
 - [2. 연산자 / 반복문 / 조건문](JAVA/98.연산자_반복문_조건문.md)
 - [1. 자바 구문 / 변수 / 데이터 유형 / 데이터 타입 변환](JAVA/99.JAVA기초.md)
+
+### [JavaScript](#JavaScript)
+- [2. JS - CallBack / Timer 함수](JavaScript/98.JS-CallBack_Timer.md)
+- [1. JS - 자료형 / 자료형 변환 / 변수](JavaScript/99.JS-자료형_변수.md)
 
 ### [SQL](#SQL)
 - [5. SQL - 관계형 데이터 베이스 / 다이어그램 / BCrypt](SQL/94.SQL-관계형데이터베이스.md)
