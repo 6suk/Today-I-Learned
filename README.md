@@ -75,7 +75,7 @@ _56 TILs and counting..._
 - [1. 자바 구문 / 변수 / 데이터 유형 / 데이터 타입 변환](JAVA/99.JAVA기초.md)
 
 ### [JavaScript](#JavaScript)
-- [[Mini Project] 첫 웹페이지에 js 적용하기](JavaScript/97.Miniproject-AddJsMyWebpage.md)
+- [[⭐Mini Project] 첫 웹페이지에 js 적용하기](JavaScript/97.Miniproject-AddJsMyWebpage.md)
 - [2. JS - CallBack / Timer 함수](JavaScript/98.JS-CallBack_Timer.md)
 - [1. JS - 자료형 / 자료형 변환 / 변수](JavaScript/99.JS-자료형_변수.md)
 
