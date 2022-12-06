@@ -6,7 +6,7 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_56 TILs and counting..._
+_58 TILs and counting..._
 
 ---
 
@@ -75,6 +75,8 @@ _56 TILs and counting..._
 - [1. 자바 구문 / 변수 / 데이터 유형 / 데이터 타입 변환](JAVA/99.JAVA기초.md)
 
 ### [JavaScript](#JavaScript)
+- [4. JS - Number / Math / parseInt](JavaScript/95.JS-Number_Math_parseInt.md)
+- [3. JS - 객체 / Property](JavaScript/96.JS-객체_Property.md)
 - [[⭐Mini Project] 첫 웹페이지에 js 적용하기](JavaScript/97.Miniproject-AddJsMyWebpage.md)
 - [2. JS - CallBack / Timer 함수](JavaScript/98.JS-CallBack_Timer.md)
 - [1. JS - 자료형 / 자료형 변환 / 변수](JavaScript/99.JS-자료형_변수.md)
