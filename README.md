@@ -6,32 +6,17 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_60 TILs and counting..._
+_48 TILs and counting..._
 
 ---
 
 ### Categories
 
-- [Baekjoon](#Baekjoon)
 - [GIT](#GIT)
 - [HTML+CSS](#HTML+CSS)
 - [JAVA](#JAVA)
 - [JavaScript](#JavaScript)
 - [SQL](#SQL)
-
-### [Baekjoon](#Baekjoon)
-- [2022년 12월 백준](Baekjoon/98.202212-All.md)
-- [2022년 11월 백준](Baekjoon/99.202211-All.md)
-- [1065 - 한수](Baekjoon/99.202211-S4-1065.md)
-- [1316 - 그룹 단어 체커](Baekjoon/99.202211-S5-1316.md)
-- [2941 - 크로아티아 알파벳](Baekjoon/99.202211-S5-2941.md)
-- [4673 - 셀프넘버](Baekjoon/99.202211-S5-4673.md)
-- [4344 - 평균은 넘겠지](Baekjoon/99.202211-V1-4344.md)
-- [15596 - 정수 N개의 합](Baekjoon/99.202211-V2-15596.md)
-- [2675 - 문자열 반복](Baekjoon/99.202211-V2-2675.md)
-- [8958 - OX퀴즈](Baekjoon/99.202211-V2-8958.md)
-- [11720 - 숫자의 합](Baekjoon/99.202211-V4-11720.md)
-- [10809 - 알파벳 찾기](Baekjoon/99.202211-V5-10809.md)
 
 ### [GIT](#GIT)
 - [2. Branch / Merge / Workflow](GIT/98.Branch_Merge_Workflow.md)
