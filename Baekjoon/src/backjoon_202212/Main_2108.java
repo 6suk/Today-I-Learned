@@ -26,37 +26,58 @@ public class Main_2108 {
         int n = Integer.parseInt(br.readLine());
         int[] numBox = new int[n];
 
-        for (int i = 0; i < n; i++) numBox[i] = Integer.valueOf(br.readLine());
+        for (int i = 0; i < n; i++) numBox[i] = Integer.parseInt(br.readLine());
         br.close();
         Arrays.sort(numBox);
 
         if (n == 1) {
-            System.out.println(numBox[0]);
-            System.out.println(numBox[0]);
-            System.out.println(numBox[0]);
-            System.out.println(0);
+            int tmp = numBox[0];
+            System.out.printf("%d\n%d\n%d\n0", tmp, tmp, tmp);
         } else {
             int max = Arrays.stream(numBox).max().getAsInt();
             int min = Arrays.stream(numBox).min().getAsInt();
             System.out.println(getAvg(numBox));
             System.out.println(getMiddle(numBox, n));
+            System.out.println(getMoreVal(numBox));
             System.out.println(max - min);
         }
 
-
-
-
     }
 
-
+    //중앙값
     public static int getMiddle(int[] numBox, int n) {
-        return numBox[(n / 2) + 1];
+        return numBox[n / 2];
     }
 
+    //산술평균
     public static int getAvg(int[] numBox) {
         double avg = Arrays.stream(numBox).average().getAsDouble();
         return (int) Math.round(avg);
     }
 
+    public static int getMoreVal(int[] numBox) {
+        Map<Integer, Integer> map = new HashMap<>();
+
+        for (int a : numBox) {
+            map.merge(a, 1, Integer::sum);
+        }
+
+        Map.Entry<Integer, Integer> max = map.entrySet().stream().max(Map.Entry.comparingByValue()).orElse(null);
+
+
+        List<Integer> list = new ArrayList<>();
+        for (Map.Entry<Integer, Integer> a : map.entrySet()) {
+            if (a.getValue() == max.getValue()) {
+                list.add(a.getKey());
+            }
+        }
+        if (list.size() > 1) {
+            list.sort(Comparator.comparingInt(x -> x));
+            return list.get(1);
+        } else {
+            return max.getKey();
+        }
+
+    }
 
 }
