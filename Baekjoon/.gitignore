@@ -1,5 +1,6 @@
 ### Java template
 test/
+mdfile/
 
 # Compiled class file
 *.class
@@ -95,4 +96,3 @@ local.properties
 *.iml
 out
 gen
-!/mdfile/
