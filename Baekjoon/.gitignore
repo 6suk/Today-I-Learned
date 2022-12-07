@@ -1,5 +1,6 @@
 ### Java template
 test/
+*.md
 
 # Compiled class file
 *.class
