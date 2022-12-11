@@ -6,7 +6,7 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_51 TILs and counting..._
+_52 TILs and counting..._
 
 ---
 
@@ -65,6 +65,7 @@ _51 TILs and counting..._
 - [1. 자바 구문 / 변수 / 데이터 유형 / 데이터 타입 변환](JAVA/99.JAVA기초.md)
 
 ### [JavaScript](#JavaScript)
+- [8. JS - 문서 객체 모델 / 이벤트](JavaScript/91.JS-문서객체_이벤트.md)
 - [7. JS - Arrays](JavaScript/92.JS-Arrays.md)
 - [6. JS - Date](JavaScript/93.JS-Date.md)
 - [5. JS - String](JavaScript/94.JS-String.md)
