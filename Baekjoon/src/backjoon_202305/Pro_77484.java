@@ -7,7 +7,8 @@ import java.util.Arrays;
 public class Pro_77484 {
 
     // 제출 1 (통과)
-    public int[] solution1(int[] lottos, int[] win_nums) {
+    public int[]
+    solution1(int[] lottos, int[] win_nums) {
         int cnt = 0;
         int zeroCnt = 0;
 
@@ -34,6 +35,7 @@ public class Pro_77484 {
             max -= tmp;
             if (a == 0) max--;
         }
+
         return new int[]{Math.min(max, 6), Math.min(min, 6)};
     }
 
