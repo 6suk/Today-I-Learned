@@ -1,7 +1,6 @@
-package Udemy;
+package Temporary;
 
 import java.util.Arrays;
-import java.util.Stack;
 
 public class Pro_0528_02 {
     public int solution(String s) {
