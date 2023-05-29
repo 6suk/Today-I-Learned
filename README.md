@@ -6,7 +6,7 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_54 TILs and counting..._
+_55 TILs and counting..._
 
 ---
 
@@ -66,6 +66,7 @@ _54 TILs and counting..._
 - [1. 자바 구문 / 변수 / 데이터 유형 / 데이터 타입 변환](JAVA/99.JAVA기초.md)
 
 ### [JAVAWeb](#JAVAWeb)
+- [2. Servlet - 요청·응답 API / Form 속성](JAVAWeb/98.Servlet-reuest-response.md)
 - [1. Servlet - LifeSycle / Mapping](JAVAWeb/99.Servlet-LifeSycle_Mapping.md)
 
 ### [JavaScript](#JavaScript)
