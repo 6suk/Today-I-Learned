@@ -3,6 +3,10 @@ package cote_202305;
 import java.util.Arrays;
 import java.util.HashMap;
 
+/*
+ * 2023-05-31
+ * https://school.programmers.co.kr/learn/courses/30/lessons/178871
+ */
 public class Pro_178871 {
     public String[] solution(String[] players, String[] callings) {
         String[] result = new String[players.length];

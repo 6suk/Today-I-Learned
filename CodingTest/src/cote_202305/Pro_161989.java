@@ -1,5 +1,10 @@
 package cote_202305;
 
+/*
+ * 2023-05-31
+ * https://school.programmers.co.kr/learn/courses/30/lessons/161989
+ */
+
 public class Pro_161989 {
     public int solution(int n, int m, int[] section) {
         int fill = 1, result = 1;
