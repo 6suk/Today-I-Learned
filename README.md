@@ -6,7 +6,7 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_59 TILs and counting..._
+_61 TILs and counting..._
 
 ---
 
@@ -68,6 +68,8 @@ _59 TILs and counting..._
 - [1. 자바 구문 / 변수 / 데이터 유형 / 데이터 타입 변환](JAVA/99.JAVA기초.md)
 
 ### [JAVAWeb](#JAVAWeb)
+- [[⭐Mini Project] - Sevlet / BaseballPlayer](JAVAWeb/94.MiniProject-BaseballPlayer.md)
+- [5. Servlet - ConnectionPool](JAVAWeb/95.Servlet-ConnectionPool.md)
 - [4. Servlet - 비즈니스 처리](JAVAWeb/96.Servlet-비즈니스처리.md)
 - [3. Servlet - 자바스크립트로 Servlet 유효성 검사](JAVAWeb/97.Servlet-유효성검사byJS.md)
 - [2. Servlet - 요청·응답 API / Form 속성](JAVAWeb/98.Servlet-reuest-response.md)
