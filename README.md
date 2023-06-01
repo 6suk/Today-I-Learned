@@ -21,8 +21,8 @@ _59 TILs and counting..._
 - [SQL](#SQL)
 
 ### [CodingTest](#CodingTest)
+- [2023년 06월](CodingTest/96.202306-All.md)
 - [2023년 05월](CodingTest/97.202305-All.md)
-- [2023년 06월](CodingTest/97.202306-All.md)
 - [2022년 12월 백준](CodingTest/98.202212-All.md)
 - [2022년 11월 백준](CodingTest/99.202211-All.md)
 
