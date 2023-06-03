@@ -64,6 +64,8 @@ local.properties
 # sbteclipse plugin
 .target
 
+Date_0000.java
+
 # Tern plugin
 .tern-project
 
