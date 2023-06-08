@@ -6,7 +6,7 @@
 - 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
 
 
-_64 TILs and counting..._
+_63 TILs and counting..._
 
 ---
 
@@ -70,7 +70,6 @@ _64 TILs and counting..._
 ### [JAVAWeb](#JAVAWeb)
 - [7. Servlet - Encoder / Decoder](JAVAWeb/92.Servlet-Encoder_Decoder.md)
 - [6. Servlet - foward](JAVAWeb/93.Servlet-forward.md)
-- [6. Servlet - foward](JAVAWeb/93.Servlet-foward.md)
 - [[⭐Mini Project] - Sevlet / BaseballPlayer](JAVAWeb/94.MiniProject-BaseballPlayer.md)
 - [5. Servlet - ConnectionPool](JAVAWeb/95.Servlet-ConnectionPool.md)
 - [4. Servlet - 비즈니스 처리](JAVAWeb/96.Servlet-비즈니스처리.md)
