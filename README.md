@@ -1,9 +1,8 @@
 # TIL
 > Today I Learned
 
-- ✍🏻 그날그날 공부한 내용은 [노션 바로가기](https://6suk.notion.site/d8178c919339498ca4d8a80ef05734f2?v=d4a48a1db91a401295b8cd0fcf1e45e0)
-- 📑 TIL은 정리된 내용을 재업로드하며 복습하는 공간입니다.
-- 🐣 아직 어려운 내용이 많지만, 최대한 '즐겁게' 극복 중입니다!
+
+A collection of concrete writeups of small things I learn daily.
 
 
 _63 TILs and counting..._
