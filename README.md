@@ -5,7 +5,7 @@
 A collection of concrete writeups of small things I learn daily.
 
 
-_63 TILs and counting..._
+_64 TILs and counting..._
 
 ---
 
@@ -67,6 +67,7 @@ _63 TILs and counting..._
 - [1. 자바 구문 / 변수 / 데이터 유형 / 데이터 타입 변환](JAVA/99.JAVA기초.md)
 
 ### [JAVAWeb](#JAVAWeb)
+- [8. Servlet - Binding / ServletContext / ServletConfig](JAVAWeb/91.Servlet-Binding_ServletContext_ServletConfig.md)
 - [7. Servlet - Encoder / Decoder](JAVAWeb/92.Servlet-Encoder_Decoder.md)
 - [6. Servlet - forward](JAVAWeb/93.Servlet-forward.md)
 - [[⭐Mini Project] - Sevlet / BaseballPlayer](JAVAWeb/94.MiniProject-BaseballPlayer.md)
